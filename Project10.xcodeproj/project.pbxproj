@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		06A758EA28007DC00098BCFF /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06A758E928007DC00098BCFF /* PersonCell.swift */; };
 		06DEB39C27FCABE000202F87 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DEB39B27FCABE000202F87 /* AppDelegate.swift */; };
 		06DEB39E27FCABE000202F87 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DEB39D27FCABE000202F87 /* SceneDelegate.swift */; };
 		06DEB3A027FCABE000202F87 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06DEB39F27FCABE000202F87 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		06A758E928007DC00098BCFF /* PersonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonCell.swift; sourceTree = "<group>"; };
 		06DEB39827FCABE000202F87 /* Project10.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project10.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06DEB39B27FCABE000202F87 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		06DEB39D27FCABE000202F87 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				06DEB39D27FCABE000202F87 /* SceneDelegate.swift */,
 				06DEB39F27FCABE000202F87 /* ViewController.swift */,
 				06DEB3A127FCABE000202F87 /* Main.storyboard */,
+				06A758E928007DC00098BCFF /* PersonCell.swift */,
 				06DEB3A427FCABE300202F87 /* Assets.xcassets */,
 				06DEB3A627FCABE300202F87 /* LaunchScreen.storyboard */,
 				06DEB3A927FCABE300202F87 /* Info.plist */,
@@ -260,6 +263,7 @@
 			files = (
 				06DEB3A027FCABE000202F87 /* ViewController.swift in Sources */,
 				06DEB39C27FCABE000202F87 /* AppDelegate.swift in Sources */,
+				06A758EA28007DC00098BCFF /* PersonCell.swift in Sources */,
 				06DEB39E27FCABE000202F87 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
